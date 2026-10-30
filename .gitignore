@@ -1,0 +1,6 @@
+/.tools/
+/vendor/
+/var/
+/config.local.php
+/tests/artifacts/
+__pycache__/

@@ -1,0 +1,11 @@
+{
+    "name": "local/pantry",
+    "description": "Private food expiry tracker",
+    "type": "project",
+    "require": {
+        "php": ">=8.2",
+        "ext-pdo_sqlite": "*",
+        "ext-mbstring": "*",
+        "minishlink/web-push": "^9.0"
+    }
+}
